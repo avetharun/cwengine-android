@@ -1,0 +1,44 @@
+﻿[/#ff0000/] DISCORD©, THE DISCORD API, "CLYDE", DISCORD NITRO, AND THE DISCORD BRAND
+ARE ALL REGISTERED TRADEMARKS OF DISCORD INC. ALL RIGHTS RESERVED [/#/]
+
+
+[/#db7991/]
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE[/#/]
+
+MoCord is a third-party software which aims to 
+ease users who have a hard time with new Discord© Updates
+to allow a greater feeling of comfort and customizability when using the app.
+
+MoCord [GPL-3a]
+    [/#baff00/]Copyright (C) 2023-2024 Lillium (Feintha) Bruno 
+    [/#/] {"text":"MoCord Github", "link":"https://github.com/avetharun/mocord","style":["underscore"]}
+cURLpp [MIT]
+    [/#baff00/]Copyright (C) 2002-2004 Jean-Philippe Barrette-LaPierre
+    [/#/] {"text":"cURLpp Github", "link":"https://github.com/jpbarrette/curlpp","style":["underscore"]}
+cURL-websocket [MIT]
+    [/#baff00/]Copyright (C) 2016 Gustavo Sverzut Barbieri
+    [/#/] {"text":"cURL-WS Github", "link":"https://github.com/barbieri/barbieri-playground/tree/master/curl-websocket","style":["underscore"]}
+ImGui [MIT]
+    [/#baff00/]Copyright (c) 2014-2022 Omar Cornut
+    [/#/] {"text":"ImGui Github", "link":"https://github.com/ocornut/imgui","style":["underscore"]}
+stb [MIT, PUBLIC DOMAIN]
+    [/#baff00/]Copyright (C) 2017 Sean Barrett
+    [/#/] {"text":"STB Github", "link":"https://github.com/nothings/stb","style":["underscore"]} 
+ndk-helper [APACHE-2]
+    [/#baff00/]Copyright (C) 2016 The Android Open Source Project
+    [/#/] {"text":"NDK-Helper repo", "link":"https://android.googlesource.com/platform/ndk/+/master/sources/android/ndk_helper","style":["underscore"]}
+nlohmann/json [MIT]
+    [/#baff00/]Copyright (C) 2013-2022 Niels Lohmann
+    [/#/] {"text":"Nlohmann/Json Github", "link":"https://github.com/nlohmann/json","style":["underscore"]}
+luaaa [MIT] 
+    [/#baff00/]Copyright (C) 2019 gengyong
+    [/#/] {"text":"Luaaa Github", "link":"https://github.com/gengyong/luaaa","style":["underscore"]}
+
+Font Licenses
+[/#ff0000/]N/A[/#/]

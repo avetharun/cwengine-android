@@ -1,0 +1,10 @@
+{
+  "translation_test":         "Test worked!",
+  "ui_hide_modal":            "Hide UI",
+  "sett_lang":                "Language",
+  "settings_modal":           "Settings",
+  "debug_window_modal":       "Debug Window",
+  "view_licenses_modal":      "View Licenses",
+  "settings_adv_modal":       "Advanced Settings",
+  "app_name":                 "Always On Display Manager"
+}
