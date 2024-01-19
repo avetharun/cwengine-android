@@ -1,6 +1,4 @@
-# aod-man | Always On Display Manager
-
-A fully customizable Always On Display engine.
+# CwEngine-Android | 2D game engine built for Android
 
 Also a base for building Android Visual apps in C++
 
