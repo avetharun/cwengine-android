@@ -279,17 +279,10 @@ void Sprite::Draw() {
 	ImVec2 _origin = transform.origin;
 	if (&uv == nullptr || (&uv && uv.empty()))
 	{
-		//LOGI("%.2f, %.2f x %.2f, %.2f", rect.x, rect.y, rect.w, rect.h);
-		//ImGui::GetBackgroundDrawList()->AddImage(Texture, { cent.x, rect_final.y }, { rect.x + rect.w, rect.y + rect.h }, { 0,0 }, {1, 1}, tint);
-		// TODO: render using UV
+		ImGui::GetBackgroundDrawList()->AddImage(*Texture, rect.min(), rect.max(), { 0,0 }, { 1,1 });
 	}
 	else {
-		//LOGI("U %.2f, %.2f x %.2f, %.2f", rect.x, rect.y, rect.w, rect.h);
-		ImGui::GetBackgroundDrawList()->AddImage(*Texture,rect.min(), rect.max(),
-			//{ uv_final.x, uv_final.y }, { uv_final.x + uv_final.w, uv_final.y + uv_final.h }, 
-			{ 0,0 }, { 1, 1 });
-		//ImGui::ForegroundImagePositioned(Texture, { rect.x, rect.y }, { rect.w, rect.h }, { 0,0 }, { 1,1 });
-		// TODO: render entire sprite
+		ImGui::GetBackgroundDrawList()->AddImage(*Texture,rect.min(), rect.max(), { uv_final.x, uv_final.y }, { uv_final.x + uv_final.w, uv_final.y + uv_final.h });
 	}
 }
 void Sprite::resetCache() {
